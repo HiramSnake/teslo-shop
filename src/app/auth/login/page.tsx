@@ -4,7 +4,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <main className="">
-      <h1>Login Page!!</h1>
+      <h1>Login Page!!ss</h1>
       <h2>Github and Gitlab</h2>
    
      
