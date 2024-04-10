@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className="">
       <h1>Login Page!!ss</h1>
-      <h2>Hi</h2>
+      <h2>Hic</h2>
    
      
     </main>
